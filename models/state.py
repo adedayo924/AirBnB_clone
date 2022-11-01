@@ -1,8 +1,8 @@
 #!/usr/bin/python3
-""" State Module for HBNB project """
+"""State class module for the project"""
 from models.base_model import BaseModel
 
 
 class State(BaseModel):
-    """ State class """
+    """denotes a state"""
     name = ""
