@@ -1,10 +1,10 @@
 #!/usr/bin/python3
-"""Review Class module for the project"""
+""" Review module for the HBNB project """
 from models.base_model import BaseModel
 
 
 class Review(BaseModel):
-    """ Review class for storing reviews"""
+    """ Review classto store review information """
     place_id = ""
     user_id = ""
     text = ""
