@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" State Module for HBNB project """
+"""The Amenity Class file for the project"""
 from models.base_model import BaseModel
 
 
