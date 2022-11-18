@@ -73,4 +73,6 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Kolade Fatai Opeyemi** - [Github](https://github.com/adedayo924) [LinkedIn](https://www.linkedin.com/in/fatai-opeyemi-kolade-9644b4154)
+* **Kolade Fatai Opeyemi**
+ - [Github](https://github.com/adedayo924) 
+ - [LinkedIn](https://www.linkedin.com/in/fatai-opeyemi-kolade-9644b4154)
